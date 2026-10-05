@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B Short Video Workflow"
+  short_description: "Human-guided B2B short-video workflow"
+  default_prompt: "Start or resume a human-guided B2B English short-video workflow."
